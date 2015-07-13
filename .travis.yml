@@ -8,3 +8,7 @@ before_script:
     - npm install
 script:
     - node_modules/karma/bin/karma start my.conf.js --single-run
+branches:
+  only:
+    - master
+    - branch-test
