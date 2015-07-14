@@ -1,0 +1,25 @@
+{
+  "name": "jasmine-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raingxm/Jasmine-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raingxm/Jasmine-test/issues"
+  },
+  "homepage": "https://github.com/raingxm/Jasmine-test",
+  "devDependencies": {
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.12.37",
+    "karma-firefox-launcher": "^0.1.6",
+    "karma-jasmine": "^0.3.6"
+  }
+}
